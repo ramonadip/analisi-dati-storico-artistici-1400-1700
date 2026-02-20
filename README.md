@@ -4,6 +4,10 @@
 Questo progetto analizza l’evoluzione dei soggetti e della funzione delle opere d’arte europee tra il 1400 e il 1700, con particolare attenzione al periodo successivo al Concilio di Trento (1563).  
 L’analisi è stata realizzata utilizzando metadati delle opere del MET e implementata in un notebook Python su Google Colab.
 
+## Autori
+- Nome1 Cognome1
+- Nome2 Cognome2
+
 ## Obiettivi
 - Analizzare la variazione della proporzione tra soggetti religiosi e mitologici
 - Analizzare la funzione delle opere (religiosa vs decorativa/classica)
