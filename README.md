@@ -5,8 +5,8 @@ Questo progetto analizza l’evoluzione dei soggetti e della funzione delle oper
 L’analisi è stata realizzata utilizzando metadati delle opere del MET e implementata in un notebook Python su Google Colab.
 
 ## Autori
-- Nome1 Cognome1
-- Nome2 Cognome2
+- Ramona Di Pane1
+- Lucia Landi2
 
 ## Obiettivi
 - Analizzare la variazione della proporzione tra soggetti religiosi e mitologici
